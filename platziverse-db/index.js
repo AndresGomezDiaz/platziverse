@@ -8,4 +8,3 @@ module.exports = async function (config) {
     Metric
   }
 }
- 
