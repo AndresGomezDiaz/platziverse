@@ -1,0 +1,22 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "Modulo de base de datos",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Andres Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndresGomezDiaz/platziverse/issues"
+  },
+  "homepage": "https://github.com/AndresGomezDiaz/platziverse#readme",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
